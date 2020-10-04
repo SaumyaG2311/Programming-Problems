@@ -1,3 +1,5 @@
+// output the non duplicate number
+
 #include <iostream>
 #include<bits/stdc++.h>
 using namespace std;
